@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/burning-for-your-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Burning For Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-for-your-touch/) |
+| **Get License** | [Secure Licensing Rights for Burning For Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-for-your-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the embers breaking through
+> Every single time I look at you
+> There's a fire dancing in the dark
+> And I'm just waiting for the final spark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
