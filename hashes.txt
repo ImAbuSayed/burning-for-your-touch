@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Burning For Your Touch
+
+This log tracks the cryptographic history and versioning for the song **Burning For Your Touch** (burning-for-your-touch).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T14:57:41.850371 | `v1` | `e9a0518d360b1a189ca28b5418705243da306a37319267e7985b0b7366725841` | `acf61c551d73c12cb6aae05ca3845cfcb126a29b7e72ff342099b0c5f056dbdf` | `2026-05-27_burning-for-your-touch-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

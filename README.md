@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/burning-for-your-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Burning For Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-for-your-touch/) |
+| **Get License** | [Get License For Burning For Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-for-your-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e9a0518d360b1a189ca28b5418705243da306a37319267e7985b0b7366725841` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
